@@ -1,0 +1,1 @@
+This notebook was created following the VSCode Python/Jupyter tutorial https://code.visualstudio.com/docs/python/data-science-tutorial
